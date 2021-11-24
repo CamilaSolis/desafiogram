@@ -21,3 +21,9 @@ $ cd desafiogram
 $ npm install
 $ npm start
 ```
+
+#### Pruebas
+
+Para realizar pruebas, una vez se de inicio a la dependencia entrar a
+http://localhost:3000/login
+http://localhost:3000/signup
